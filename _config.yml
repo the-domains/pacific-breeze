@@ -1,0 +1,28 @@
+name: Pacific Breeze
+favicon: null
+layout_spectrum: 0.8270598545204848
+typography_spectrum: 0.9480690623167902
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7327781589701772
+  lightness: 0.1548966784030199
+  saturation: 0.903779789339751
+  rhythmicContrast: 0.16132870386354625
+purpose: []
